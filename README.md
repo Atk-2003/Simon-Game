@@ -9,7 +9,7 @@
 - [What I learned through this project](#What-I-Learned-through-this-project)
 - [Acknowledgments](#Acknowledgments)
 ## Live-Link
-
+- [Link](https://atk-2003.github.io/Simon-Game/)
 ## My-Approach
 - First I made the basic structure using HTML in index.html file.
 - Then I designed the page with CSS in style.css file.
